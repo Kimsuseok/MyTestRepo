@@ -14,6 +14,7 @@ Repo1 에서 수정1
 Repo1 에서 수정2
 Repo1 에서 수정3
 
+<<<<<<< HEAD
 Repo3에서 rebase2 브랜치 나눈이후 작업 1
 
 Repo3에서 rebase2 브랜치 나눈이후 작업 2
@@ -21,6 +22,8 @@ Repo3에서 rebase2 브랜치 나눈이후 작업 2
 Repo3에서 rebase2 브랜치 나눈이후 작업 3
 
 Repo1 에서 수정4 (commit2)
+
+Repo1 의 subbranch에서 수정5 (commit3)
 
 Repo1 에서 서브 브랜치 나눈 이후에 수정6 (commit4)
 
