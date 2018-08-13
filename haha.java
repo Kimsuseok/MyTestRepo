@@ -29,3 +29,6 @@ Repo1 에서 서브 브랜치 나눈 이후에 수정6 (commit4)
 Repo1 에서 서브 브랜치 나눈 이후에 수정7 (commit5)
 
 Repo2가 Repo1이 나눠준 subbrnach에서 수정 (commit1)
+
+Repo2가 Repo1이 나눠준 subbrnach에서 수정 (commit2)
+
